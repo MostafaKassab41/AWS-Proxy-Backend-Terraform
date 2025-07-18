@@ -3,6 +3,11 @@
 This project sets up a **modular AWS infrastructure** using Terraform, including networking, security, compute resources, and load balancers. It supports a scalable architecture with reverse proxy servers in public subnets, backend servers in private subnets, NAT and Internet Gateways, internal/public Load Balancers, and remote backend state management via S3 and DynamoDB.
 
 ---
+## 🖼 Architecture Diagram
+
+![Architecture Overview](arch.png)
+
+---
 
 ## 📁 Project Structure
 
