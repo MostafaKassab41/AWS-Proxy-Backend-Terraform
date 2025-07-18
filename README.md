@@ -59,7 +59,7 @@ This project sets up a **modular AWS infrastructure** using Terraform, including
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/aws-terraform-infra.git
+   git clone https://github.com/MostafaKassab41/AWS-Proxy-Backend-Terraform/tree/main
    cd aws-terraform-infra
    ```
 
