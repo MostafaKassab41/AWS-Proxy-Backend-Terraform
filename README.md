@@ -116,15 +116,4 @@ This project sets up a **modular AWS infrastructure** using Terraform, including
 - Make sure your EC2 AMIs and user data are defined inside the EC2 modules.
 - Backend output IDs are passed to the load balancer module.
 
----
 
-## 📜 License
-
-This project is licensed under the MIT License.
-
----
-
-## ✍️ Author
-
-**Mostafa Kassab**  
-[GitHub](https://github.com/your-username)  
