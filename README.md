@@ -5,7 +5,7 @@ This project sets up a **modular AWS infrastructure** using Terraform, including
 ---
 ## 🖼 Architecture Diagram
 
-![Architecture Overview](/arch.png)
+![Architecture Overview](arch.jpg)
 
 ---
 
